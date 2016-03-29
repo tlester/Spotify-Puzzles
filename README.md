@@ -20,7 +20,8 @@ Per testcase:
 
 - One line with the maximum possible number of satisfied voters for the show.
 
-```Sample input 1
+```
+Sample input 1
 2
 1 1 2
 C1 D1
@@ -30,7 +31,9 @@ C1 D1
 C1 D1
 C1 D2
 D2 C1
+
 Sample output 1
 1
-3```
-# Spotify-Puzzles
+3
+```
+
