@@ -2,6 +2,10 @@
 
 These are my solutions for puzzles found at [Spotify Labs](https://labs.spotify.com/puzzles/)
 
+### Notes:
+
+Zipf and reverse binary are pretty easy.  Cat vs. Dog... not so much.   In fact, my code here fails for cat vs. dog.   It passes every single test case I give it, including the test case Spotify includes.  But when I submit, I get "Wrong Answer".  So, I'm not sure where I'm going wrong.   If anyone sees the issue, please feel free to let me know!   
+
 ## Cat vs. Dog
 The latest reality show has hit the TV: “Cat vs. Dog”. In this show, a bunch of cats and dogs compete for the very prestigious Best Pet Ever title. In each episode, the cats and dogs get to show themselves off, after which the viewers vote on which pets should stay and which should be forced to leave the show.
 
